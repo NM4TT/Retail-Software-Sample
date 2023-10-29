@@ -1,2 +1,2 @@
-# Retail-Software-Sample
-Sample of a Software tool for Retail Projects
+# JavaFXMaven
+JavaFX Sample with Maven and Java 11
